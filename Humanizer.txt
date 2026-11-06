@@ -1,0 +1,167 @@
+Humanizer
+Purpose: Strip AI tells out of any text, and keep them out of new text.
+Trigger: "humanize this," or apply by default if the skill is loaded.
+Applies to: prose. Not code, not tables of specs, not a list of steps someone has to follow.
+The one rule underneath all the others
+Write the thing. Don't perform the writing.
+Most AI tells come from the model showing you it's working: announcing the point before making it, summarizing after making it, adding a clause about why the point matters. A person who has something to say just says it.
+What to catch
+Fake significance
+"stands as," "is a testament to," "played a pivotal role," "cemented its place," "left an indelible mark," "underscores," "reflects broader trends," "symbolizes," "serves as a reminder"
+Any sentence claiming importance the surrounding facts don't earn
+Notability padding
+Listing outlets, awards, or "features" to prove a subject matters
+"gained recognition," "has been profiled in," "maintains an active social media presence," "featured in"
+Vague association
+"connected with," "associated with," "in connection with," "tied to," "linked to" with no stated mechanism
+If you can't say how two things relate, don't imply they do
+Source theater
+"according to his personal website," "is listed in," "available upon request," "not publicly accessible"
+If the source can't be checked, drop the claim
+Orphan "-ing" clauses
+Sentence tails that start with highlighting, reflecting, underscoring, emphasizing, showcasing, ensuring, fostering, demonstrating, marking
+These sound like analysis and contain none. Cut the clause, or replace it with a fact.
+Promotional tone
+"vibrant," "rich," "renowned," "nestled," "boasts," "state-of-the-art," "seamless," "world-class," "cutting-edge"
+Read it back as if a competitor wrote it about themselves. If it sounds like a brochure, rewrite.
+AI vocabulary
+delve, tapestry, landscape, realm, pivotal, crucial, multifaceted, intricate, meticulous, robust, leverage, harness, navigate (figurative), testament, foster, myriad, plethora, embark, unlock, ever-evolving, game-changer
+One of these in a long piece isn't a crime. A cluster is a fingerprint.
+Negative parallelism
+"not only X but also Y," "not just X, it's Y," "X isn't about A, it's about B," "less about X and more about Y"
+It's a rhythm crutch. Say the true half and stop.
+Reflexive triples
+Three adjectives, three examples, three clauses, because three sounds complete
+Ask whether the third item earned its place. Sometimes two is right. Sometimes five.
+Vague attribution
+"some say," "critics argue," "observers note," "many believe," "experts agree," "it's widely considered"
+Name the person or cut the sentence
+Lecturing
+"It's important to note that," "It's worth remembering," "This matters because," "Keep in mind that"
+Also: explaining to the reader why a fact is interesting instead of letting the fact be interesting
+Hedge stacking
+"may potentially," "could arguably," "in some cases it might"
+Pick your actual confidence level and state it once
+Punctuation tics
+Em dashes used for rhythm rather than grammar
+Semicolons doing work a period should do
+Ellipses trailing off
+Symmetry addiction
+Every sentence roughly the same length
+Every paragraph the same three-sentence shape
+Paragraphs that open with a topic sentence, develop, and close with a bow
+Formatting tells
+Markdown syntax in a plain-text context
+Bullets where a paragraph would read better
+Bold scattered over key phrases for no reason
+"Term: explanation" scaffolding for things that aren't definitions
+Headers on two-sentence sections
+Structural tells
+An intro that restates the prompt, and a conclusion that restates the intro
+Both-sidesing when the writer clearly has a view
+"Let's dive in," "Here's the thing," "At the end of the day," "In today's world" as transitions
+What to do instead
+Cut the tail. If a sentence ends in an "-ing" clause, delete the clause. Nine times out of ten the sentence is stronger.
+Name the actor. Who did what to whom. Passive voice hides agency; use it only when the agent genuinely doesn't matter.
+Swap abstraction for specifics. A number, a name, a date, a concrete noun. "Significant growth" becomes "grew 40% in two years."
+Check the source before making the claim. No source, no sentence.
+Vary length hard. Follow a 30-word sentence with a 4-word one. Let short sentences land.
+Allow asymmetry. Two examples. Or five. Whatever the material actually supports.
+State, don't announce. Cut "Here's why this matters" and give the reason.
+Prefer "is" to "serves as." Prefer "has" to "boasts." Prefer "used" to "leveraged."
+Delete your first and last sentence. In most drafts they're framing, and the real piece starts at sentence two.
+Contractions are fine. So is starting with "But" or "And." So is a fragment.
+Voice defaults
+Contractions, unless the context is formal
+Plain words over Latinate ones: "use" not "utilize," "help" not "facilitate," "show" not "demonstrate"
+Say "I don't know" instead of hedging into mush
+Admit the limits of your own claim in one clause, not three
+Don't summarize what you just said
+One idea per sentence, mostly
+Self-check before sending
+Read-aloud test. Would a person say this sentence out loud? If not, rewrite.
+First/last test. Cover the first and last sentence. Does the piece still work? If yes, leave them covered.
+Source test. For every claim, can you name where it comes from? If not, cut it.
+Triple test. Count your lists of three. If more than one, break them up.
+Vocabulary test. Scan for the AI vocabulary list. More than one hit, rewrite those sentences.
+Symmetry test. Look at sentence lengths. If they're all within a few words of each other, break the pattern on purpose.
+Exceptions
+Lists are correct for steps, specs, comparisons, and anything a reader will scan rather than read. Structure is correct when it does work for the reader. This skill targets prose that's pretending to be thought, not formatting that's actually helping.
+Adding the two pieces I mentioned: a scoring rubric you can run a draft through, and stress-test passages to practice on.
+Part 2: Scoring rubric
+Score each cluster 1–10. 10 means no trace of the tell. 1 means the draft is made of it. Tally at the end.
+Cluster 1 — Significance inflation
+1: Every other sentence claims importance. "Pivotal," "testament," "cemented."
+5: A few claims of importance that the facts half-support.
+10: The facts are stated. The reader decides what they mean.
+How to score fast: Highlight every sentence that says something matters. Count them. More than one per 300 words is a problem.
+Cluster 2 — Orphan clauses
+1: Most sentences end in an "-ing" phrase.
+5: Three or four in a page.
+10: None, or the rare one that carries real information ("grew 12%, outpacing every competitor").
+Fast check: Search for ", highlighting," ", reflecting," ", underscoring," ", showcasing," ", ensuring." Delete the results and see if anything is lost.
+Cluster 3 — Vocabulary
+1: Two or more AI words per paragraph.
+5: One per paragraph, scattered.
+10: None, or a word that happens to be on the list but is genuinely the right word. ("Robust" in a statistics context is fine.)
+Fast check: Search the list. Count hits. Divide by word count. Above 1 per 200 words, rewrite.
+Cluster 4 — Symmetry
+1: Every sentence 15–25 words. Every paragraph three sentences.
+5: Some variation, but a steady drumbeat.
+10: A four-word sentence sits next to a forty-word one. Paragraphs run 1 to 8 sentences.
+Fast check: Count words per sentence. If the standard deviation is small, break the pattern.
+Cluster 5 — Hedging and vagueness
+1: "Some say," "may potentially," "it could be argued."
+5: Occasional vagueness where the writer clearly knows the answer.
+10: Claims attributed to named sources, confidence stated once.
+Fast check: Search for "some," "many," "experts," "critics," "observers," "arguably," "potentially." Each hit is a sentence that needs a name or a cut.
+Cluster 6 — Structure
+1: Intro restates the prompt. Conclusion restates the intro. Headers on tiny sections.
+5: Conventional but functional shape.
+10: Starts where the interesting part starts. Ends when the point is made.
+Fast check: Read only the first and last paragraph. If they say the same thing, cut one.
+Cluster 7 — Formatting
+1: Bold scattered everywhere, bullets for prose, headers every two sentences.
+5: Formatting that's defensible but heavy.
+10: Formatting only where the reader will scan.
+Fast check: Remove all bold. Does anything get harder to read? If not, leave it removed.
+Tally
+Add all seven. Out of 70.
+60–70: Ship it.
+45–59: Fix the lowest two clusters.
+30–44: Rewrite the weak sections rather than patching.
+Below 30: Start over. Patching won't save it.
+One more thing about scoring: the clusters aren't equally weighted in how they read. Significance inflation and orphan clauses are the loudest tells. If you're short on time, fix those two first.
+Part 3: Stress-test passages
+Each passage below contains one tell, deliberately. Cover the label, read the passage, name the problem, then rewrite it. Answers are underneath, flipped.
+Passage 1
+The bridge opened in 1937 and quickly became a symbol of the city's resilience, standing as a testament to the ingenuity of its engineers and reflecting the broader optimism of the era.
+Tell: significance inflation plus two stacked orphan clauses.
+Rewrite: The bridge opened in 1937. Its engineers solved the span problem by [specific method]. (The "symbol of resilience" claim needs a source or a cut.)
+Passage 2
+Critics have argued that the policy was flawed, and some observers note that its effects may potentially have been uneven across different regions.
+Tell: vague attribution stacked on hedge stacking.
+Rewrite: [Named economist] found the policy's effects were uneven across regions. (Or: cut the sentence. If nobody can be named, nobody said it.)
+Passage 3
+The company boasts a vibrant, world-class team and maintains an active presence across multiple social platforms.
+Tell: promotional tone plus notability padding. This sentence exists to make the subject sound important and says nothing.
+Rewrite: The company employs 40 people. It posts on LinkedIn and X. (If the social presence matters, say what it's used for.)
+Passage 4
+Not only did the reform reduce processing times, but it also improved worker satisfaction, demonstrating the value of thoughtful policy design.
+Tell: negative parallelism, a reflexive triple, and an orphan clause in one sentence.
+Rewrite: Processing times fell 30%. Worker satisfaction scores rose. (Let the reader draw the conclusion. Or state it plainly: "Both improvements suggest the design mattered.")
+Passage 5
+The city is nestled in a lush valley, offering visitors a rich tapestry of cultural experiences and a myriad of dining options.
+Tell: the full AI vocabulary cluster. Four tells in twenty words.
+Rewrite: The city sits in a valley. Its restaurant scene runs from [specific cuisine] to [specific cuisine].
+Passage 6
+It's important to note that these findings are preliminary and should be interpreted with caution, as further research is needed.
+Tell: lecturing disclaimer. The reader knows preliminary findings are preliminary.
+Rewrite: The sample was 30 people. (State the limitation as a fact. Skip the instruction about how to feel about it.)
+Passage 7
+In today's fast-paced world, businesses must leverage cutting-edge technology to navigate an ever-evolving landscape and unlock their full potential.
+Tell: every generic-phrase bingo card in one sentence. This says nothing at all.
+Rewrite: Delete it. There's nothing here to save. Start with the actual claim.
+How to use these
+Read one aloud, spot the tell, rewrite in your own words. Then compare to the answer. If your rewrite and mine differ but both pass the read-aloud test, yours is fine. The point isn't matching me, it's building the reflex.
+Once you can catch all seven in under a minute, you're ready for the real test: run your own draft through the rubric, score it honestly, and fix the lowest cluster.
